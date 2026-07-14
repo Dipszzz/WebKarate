@@ -414,7 +414,7 @@ Mohon dipandu untuk proses seleksi/latihan perdana. Terima kasih!`;
                 {/* Judul Besar: EKSTRAKURIKULER KARATE */}
                 <motion.h1
                   variants={fadeUp}
-                  className="w-full text-3xl sm:text-5xl lg:text-5xl font-cinzel font-black tracking-wider leading-snug sm:leading-tight lg:leading-tight text-karateWhite break-words"
+                  className="w-full text-2xl sm:text-5xl lg:text-5xl font-cinzel font-black tracking-wider leading-snug sm:leading-tight lg:leading-tight text-karateWhite break-words"
                 >
                   EKSTRAKURIKULER <br />
                   <span className="bg-gradient-to-r from-indigo-300 via-blue-400 to-blue-600 bg-clip-text text-transparent">KARATE</span>
